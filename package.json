@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": false,
   "scripts": {
-    "changelog": "changeset",
+    "changest": "changeset add",
     "release": "changeset publish"
   },
   "repository": {
