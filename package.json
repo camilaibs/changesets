@@ -1,6 +1,6 @@
 {
-  "name": "changesets",
-  "version": "0.0.1",
+  "name": "camilaibs-changesets",
+  "version": "0.0.2",
   "description": "Changesets",
   "main": "index.js",
   "private": false,
