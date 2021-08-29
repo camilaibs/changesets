@@ -1,1 +1,1 @@
-console.log("changeset-test v0.0.2");
+console.log("changeset-test v0.0.3");
