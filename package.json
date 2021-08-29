@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Changesets",
   "main": "index.js",
-  "private": true,
+  "private": false,
   "scripts": {
     "changelog": "changeset",
     "release": "changeset publish"
