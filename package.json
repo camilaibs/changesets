@@ -1,0 +1,24 @@
+{
+  "name": "changesets",
+  "version": "0.0.0",
+  "description": "Changesets",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "changelog": "changeset",
+    "release": "changeset publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilaibs/changesets.git"
+  },
+  "author": "Camila Belo <camilaibs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camilaibs/changesets/issues"
+  },
+  "homepage": "https://github.com/camilaibs/changesets#readme",
+  "dependencies": {
+    "@changesets/cli": "^2.16.0"
+  }
+}
